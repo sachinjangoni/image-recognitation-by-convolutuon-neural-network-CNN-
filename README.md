@@ -13,4 +13,6 @@
 # Evaluation
    Model evaluation based on accuracy score.
    
+   ![cnn](https://user-images.githubusercontent.com/49440813/101282901-e9816600-37d7-11eb-927e-f4db955c02aa.jpeg)
+   
   
